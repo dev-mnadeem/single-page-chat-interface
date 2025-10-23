@@ -253,3 +253,7 @@ is no `tailwind.config.js`, because v4 does not read one.
 - **History is per-browser, single-thread.** The transcript lives in `localStorage` under one
   key, so it does not follow you to another device.
 - **Streaming is one-way.** No tool calling, no function results, no editing a sent message.
+
+## Author
+
+[**Muhammad Nadeem**](https://github.com/dev-mnadeem)
